@@ -33,6 +33,7 @@
 
 .video-author {
   margin-bottom: 4px;
+  text-decoration: none;
 }
 
 .video-grid {
@@ -56,4 +57,9 @@
   position: absolute;
   right: 5px;
   bottom: 8px; 
+}
+
+.video-title-link {
+  text-decoration: none;
+  color: black;
 }
